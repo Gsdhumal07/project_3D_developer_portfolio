@@ -3,6 +3,7 @@
 
 ## Introduction
 The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
+using the web technologies developed the portfolio website shows the projects and skills and also contact through the contact section 
  
 In this course, you'll learn the following:
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
